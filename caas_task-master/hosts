@@ -1,0 +1,3 @@
+########Ansible Hosts file#######
+##This file has 100 servers host entries which will start from 10.1.0.1 to 10.1.0.100
+10.1.0:[1:100]
